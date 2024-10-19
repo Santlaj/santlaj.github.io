@@ -21,4 +21,8 @@ As I progress in my studies, I aim to develop innovative software solutions that
 
 
 ### Contact Info
+
+[santlaj2006@gmail.com]
+
 [Linkedin](https://www.linkedin.com/in/santlaj-kumar-mehta-23541a320)
+
