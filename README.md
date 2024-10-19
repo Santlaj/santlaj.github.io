@@ -20,3 +20,5 @@ As I progress in my studies, I aim to develop innovative software solutions that
 - Countdown Timer
 
 
+### Contact Info
+- https://www.linkedin.com/in/santlaj-kumar-mehta-23541a320
