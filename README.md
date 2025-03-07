@@ -1,6 +1,6 @@
 # Btech. Student
 
-#### Technical Skills: Python, HTML, CSS, JAVASCRIPT
+#### Technical Skills: Python, HTML, CSS, JAVASCRIPT , SQL
 
 ## Education
 - 1st Year Btech. CSE | LOVELY PROFESSIONAL UNIVERSITY
@@ -18,6 +18,7 @@ As I progress in my studies, I aim to develop innovative software solutions that
 
 ### Project using HTML, CSS & JAVASCRIPT
 - Countdown Timer
+- Disaster management website
 
 
 ### Contact Info
