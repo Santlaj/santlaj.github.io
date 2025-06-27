@@ -2,7 +2,7 @@
 
 ### Technical Skills: 
 #### Programming: Python, C
-#### Data Analysis & ML Libraries: NumPy, Pandas, Matplotlib, scikit-learn 
+#### Data Analysis & ML Libraries: NumPy, Pandas, Matplotlib, scikit-learn
 
 ## Education
 - 1st Year Btech. CSE | LOVELY PROFESSIONAL UNIVERSITY
