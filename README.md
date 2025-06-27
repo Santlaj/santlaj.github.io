@@ -1,6 +1,8 @@
 # Btech. Student
 
-#### Technical Skills: Python, HTML, CSS, JAVASCRIPT , SQL
+### Technical Skills: 
+#### Programming: Python, C
+#### Data Analysis & ML Libraries: NumPy, Pandas, Matplotlib, scikit-learn 
 
 ## Education
 - 1st Year Btech. CSE | LOVELY PROFESSIONAL UNIVERSITY
