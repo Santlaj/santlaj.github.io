@@ -9,9 +9,9 @@
 
 ## About Me
 
- I am a first-year B.Tech student majoring in Computer Science and Engineering, dedicated to building a successful career in software development. With a strong foundation in programming and a keen interest in algorithms and system design, I am committed to honing my technical skills and gaining practical experience. I am passionate about exploring emerging technologies and staying updated with industry trends.
+ I am a first-year B.Tech student majoring in Computer Science and Engineering, dedicated to building a successful career in Data Scientist. With a strong foundation in programming and a keen interest in data and system design, I am committed to honing my technical skills and gaining practical experience. I am passionate about exploring emerging AI technologies and staying updated with industry trends.
 
-As I progress in my studies, I aim to develop innovative software solutions that address real-world challenges and enhance user experiences.
+As I progress in my studies, I aim to develop innovative solutions that address real-world challenges.
 
 ## Experience
 ### Tata Group Data Analytics Job Simulation on Forage - June 2025
@@ -22,10 +22,10 @@ As I progress in my studies, I aim to develop innovative software solutions that
 
 ## Projects
 ### Project using Python
-- Rock paper and scissors
+- Housingn price prediction
+- Breast cancer prediction
 
 ### Project using HTML, CSS & JAVASCRIPT
-- Countdown Timer
 - Disaster management website
 
 
