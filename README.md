@@ -22,7 +22,7 @@ As I progress in my studies, I aim to develop innovative solutions that address 
 
 ## Projects
 ### Project using Python
-- Housingn price prediction
+- Housing price prediction
 - Breast cancer prediction
 
 ### Project using HTML, CSS & JAVASCRIPT
