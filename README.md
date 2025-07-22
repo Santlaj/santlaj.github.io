@@ -24,6 +24,7 @@ As I progress in my studies, I aim to develop innovative solutions that address 
 ### Project using Python
 - Housing price prediction
 - Breast cancer prediction
+- Stock price prediction
 
 ### Project using HTML, CSS & JAVASCRIPT
 - Disaster management website
