@@ -14,6 +14,15 @@
 As I progress in my studies, I aim to develop innovative solutions that address real-world challenges.
 
 ## Experience
+
+### Machine Learning Intern
+#### National Institute of Electronics & Information Technology (NIELIT), Patna                       June 2025 – July 2025
+-	Learned core concepts of Machine Learning techniques including supervised and unsupervised learning using Python, Pandas and scikit-learn.
+-	Gained hands-on experience in building real-world ML models for classification and clustering tasks.
+- Developed projects like Loan Eligibility Prediction and Customer Segmentation using KMeans, applying data preprocessing, feature scaling, model training, and evaluation techniques.
+- Focused on practical skills such as handling imbalanced data, model performance evaluation, and data visualization.
+
+
 ### Tata Group Data Analytics Job Simulation on Forage - June 2025
 - Completed a job simulation involving AI-powered data analytics and strategy development for the Financial Services team at Tata iQ.
 - Conducted exploratory data analysis (EDA) using GenAI tools to assess data quality, identify risk indicators, and structure insights for predictive modeling.
