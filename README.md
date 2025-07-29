@@ -5,7 +5,7 @@
 #### Data Analysis & ML Libraries: NumPy, Pandas, Matplotlib, scikit-learn
 
 ## Education
-- 1st Year Btech. CSE | LOVELY PROFESSIONAL UNIVERSITY
+- 2nd Year Btech. CSE | LOVELY PROFESSIONAL UNIVERSITY
 
 ## About Me
 
